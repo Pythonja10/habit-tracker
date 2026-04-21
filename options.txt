@@ -1,0 +1,18 @@
+bg LightGoldenrodYellow
+fg black
+font1 Arial 16
+bg_button GreenYellow
+ag gold
+bg_text Wheat
+bg_small_button DeepSkyBlue
+bg_activate_button DarkGreen
+bg_button_galka Thistle
+font2 Zhizn 26 bold
+font3 Arial 12
+font4 Arial 26
+bg_calendar_button_yes PaleGreen
+bg_calendar_button_no Gainsboro
+ag2 Khaki
+bg_dayoff LightSalmon
+bg_yes MediumSpringGreen
+bg_no IndianRed
